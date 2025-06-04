@@ -17,7 +17,7 @@
 }
 
 body {
-    background: var(--very-dark-blue );
+    background: var(--dark-blue );
     height: 100svh;
 
     display: flex;
