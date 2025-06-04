@@ -17,7 +17,7 @@
 }
 
 body {
-    background: var(--very-dark-blue );
+    background: var(--very-dark-blue);
     height: 100svh;
 
     display: flex;
@@ -46,7 +46,7 @@ body {
 }
 
 .estrela {
-    background-color: var(--dark-blue);
+    background: var(--dark-blue);
     width: 48px;
     height: 48px;
 
